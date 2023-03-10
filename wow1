@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+    <body>
+    <video playsinline autoplay muted loop>
+     <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+  	<source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video">
+    Your browser does not support the video tag. I suggest you upgrade your browser.
+</video>
+
+<header>
+  <nav>
+    
+    <a href="#">Shop</a>
+    <a href="#">Stores</a>
+    <a href="#">Products</a>
+  </nav>  
+</header>
+
+<div class="overlay">
+  <h2>Meet the crazy-smart women we asked.</h2>
+</div>
+</body>
+</html>
